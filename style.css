@@ -1,0 +1,50 @@
+
+body{
+    background-color: #DFF6FF;
+}
+.container{
+    text-align: center;
+    margin-top: 10%;
+    /* background-color: #051367; */
+    
+}
+#screen{
+    font-size: 1.5rem;
+    width: 16.5rem;
+    line-height: 4rem;
+    font-weight: lighter;
+    padding-left: 10px;
+    padding-right: 10px;
+    /* border:0.7rem solid #051367; */
+    
+}
+table{
+    margin: auto;
+  border-spacing: 0.5rem;
+  /* background-color: #051367; */
+ 
+}
+button{
+    
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    background-color: #051367;
+    color: white;
+    
+}
+.spbtn{
+    background-color:#2D31FA;
+    color: black;
+}
+.spbtn2{
+    background-color: #5D8BF4;
+    color: black;
+}
+.spbtn3{
+    background-color: #141E27;
+    color: white;
+}
